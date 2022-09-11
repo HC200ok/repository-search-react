@@ -1,0 +1,12 @@
+.repository {
+  margin: 10px 0px;
+  border: 1px solid #efefef;
+  padding: 10px;
+}
+.description {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
